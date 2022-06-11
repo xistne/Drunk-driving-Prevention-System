@@ -1,1 +1,6 @@
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.less linguist-detectable=false
 
+WebContent/ linguist-documentation=false
+WebContent/ linguist-vendored=false
